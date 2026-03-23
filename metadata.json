@@ -1,0 +1,7 @@
+{
+  "name": "Emergency Resource Locator System",
+  "description": "A comprehensive platform to find emergency resources, manage emergency contacts, and send SOS alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
